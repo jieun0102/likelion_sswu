@@ -1,0 +1,22 @@
+.app {
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+  th, td {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+  }
+  th {
+    background: #f0f0f0;
+  }
+  .error {
+    color: red;
+  }
